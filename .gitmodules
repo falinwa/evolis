@@ -1,0 +1,4 @@
+[submodule "Falinwa_Standard"]
+	path = Falinwa_Standard
+	url = git@github.com:FalinwaLimited/Falinwa.git
+	branch = 11.0
